@@ -19,7 +19,7 @@ Make sure to do all of the following with your app.
 * **RESTful Routes** Design your CRUD routes using the [REST](http://restfulrouting.com/mappings/resources) convention.
 * **AJAX** Leverage AJAX to fetch JSON data from the backend.
 * **jQuery** Use jQuery to add interactivity and render data on the client-side.  
-* **Templating** Render the JSON data on the frontend using handlebars templates.  
+* **Templating** Render the JSON data on the frontend using templates.  
 * **MongoDB** Persist at least two models to a Mongo Database. Use at least one one-to-many or many-to-many relationship between models. You can choose to reference or embed your data.  
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript/tree/master/es5).
@@ -56,10 +56,11 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
 
 
-* **Wednesday, April 6th by 3:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Weekdays, April 7th-11th** - Standups @ 10:00am. Afternoon 1:1s with instructors.
-* **Monday, April 11th** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Tuesday, April 12th @ 10am** - Project due and presentations!
+* **Tuesday, February 15th - All Morning** - Formally pitch your project to your instructors. You mustthe [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Weekdays, February 16th-17th** - Standups @ 10:00am. Afternoon 1:1s with instructors.
+* **Weekend** - Working remotely is challenging! Consider meeting at least once.
+* **Monday, February 20th** - (It's a holiday, but campus is open!) Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Tuesday, February 21st by 10:30am** - Project deliberables due. Presentations before and after lunch.
 
 ## WHAT WE ARE LOOKING FOR
 
