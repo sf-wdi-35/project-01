@@ -53,7 +53,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
+> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=1370438481).
 
 
 * **Tuesday, February 15th - All Morning** - Formally pitch your project to your instructors. You mustthe [planning deliverables](./planning.md) must be checked off with an instructor!
