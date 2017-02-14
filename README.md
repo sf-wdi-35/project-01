@@ -26,7 +26,7 @@ Make sure to do all of the following with your app.
 * **Git** 50+ commits. Commit early, commit often. Tell a story with your commits. Each message should give a clear idea what you changed. (And don't expose any secret keys/tokens on GitHub!)
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript/tree/master/es5).
 * **Visual Design** Use Twitter Bootstrap, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
-* **Heroku** Deploy your app to Heroku.
+* **Heroku** Deploy your app to Heroku. (The earlier the better!)
 * **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](./example-readme.md) for a suggested structure.
 
 ## PLANNING DELIVERABLES
