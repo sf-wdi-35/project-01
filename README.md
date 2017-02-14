@@ -1,5 +1,7 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Project One
 
+> DO **NOT** FORK THIS REPO. DO NOT **CLONE** THIS REPO.
+
 ## DESCRIPTION
 
 It's time to put everything that you've learned in the past month together! For your first project you will build a full stack web application using jQuery and AJAX, Express, Node.js, Mongoose, and MongoDB.
@@ -10,7 +12,7 @@ The objective of this project is to:
 * Demonstrate mastery of topics covered during this course so far.  
 * Build a polished, published website you can share in your portfolio.  
 
-You will be working **individually** for this first project. Show us what you've got!
+You will be working **in pairs** for this first project. Go Team!
 
 ## CORE REQUIREMENTS
 Make sure to do all of the following with your app.
@@ -37,7 +39,7 @@ See the [planning deliverables](./planning.md) document for more information on 
   * A **Feasibility Check** for any bonus feature you'd like to complete.
 
 
-Once your project has been approved, create a **GitHub Repo** for your project and [add your teaching team as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
+Once your project has been approved, create a single **GitHub Repo** for your project and [add your classmate, and your teaching team as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/). Both teammates should clone it -- but DO NOT FORK it.
 
 ## BONUS IDEAS  
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
@@ -56,7 +58,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1eu4_B9iu1TBRsAgYUdpvb3Y949E8stqSo62SMnBPws8/edit#gid=1370438481).
 
 
-* **Tuesday, February 15th - All Morning** - Formally pitch your project to your instructors. You mustthe [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Tuesday, February 15th - All Morning** - Formally pitch your project to your instructors. All of the [planning deliverables](./planning.md) must be checked off by an instructor!
 * **Weekdays, February 16th-17th** - Standups @ 10:00am. Afternoon 1:1s with instructors.
 * **Weekend** - Working remotely is challenging! Consider meeting at least once.
 * **Monday, February 20th** - (It's a holiday, but campus is open!) Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
